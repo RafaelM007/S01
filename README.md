@@ -1,1 +1,1 @@
-# S01
+# Repositório para a disciplina S01
