@@ -17,7 +17,7 @@ public class CombatenteDeGondor
 
     public void Equipar(string arma)
     {
-        this.Armamento = arma; //[cite: 11]
+        this.Armamento = arma; 
     }
 
     public void ApresentarUnidade()
